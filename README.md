@@ -1,3 +1,52 @@
+# Deprecation note
+
+This repo is no longer being maintained. See [this fork](https://github.com/etalab/csv_detective) for a more up to date version.
+
+*****************
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # CSV Detective
 
 This is a package to **automatically detect column content in CSV files**. As of now, the script reads the first few rows of the CSV and performs various checks to see for each column if it matches with various content types. This is currently done through regex and string comparison.
